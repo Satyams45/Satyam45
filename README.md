@@ -41,9 +41,12 @@ Cloud Developer | Full Stack Enthusiast | DevOps & Cybersecurity Learner
 ---
 
 ### 🛠️ Languages and Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/-333333?style=flat&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/-333333?style=flat&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-333333?style=flat&logo=docker" alt="Docker" />
+  <img src="https://img.shields.io/badge/-333333?style=flat&logo=terraform" alt="Terraform" />
+  <img src="https://img.shields.io/badge/-0078D4?style=flat&logo=microsoft-azure" alt="Azure" />
+</p>
 
-![Python](https://img.shields.io/badge/-333333?style=flat&logo=python)  ![JavaScript](https://img.shields.io/badge/-333333?style=flat&logo=javascript)  ![Docker](https://img.shields.io/badge/-333333?style=flat&logo=docker)  ![Terraform](https://img.shields.io/badge/-333333?style=flat&logo=terraform)  ![Azure](https://img.shields.io/badge/-0078D4?style=flat&logo=microsoft-azure)  
-<!-- Add more badges for tools and languages you use -->
-
----
 
