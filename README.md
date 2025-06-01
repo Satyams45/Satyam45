@@ -3,10 +3,10 @@ Cloud Developer | Full Stack Enthusiast | DevOps & Cybersecurity Learner
 
 <p align="center">
   <a href="https://www.linkedin.com/in/satyampanseriya/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn" width="100">
   </a>
   <a href="mailto:pans0012@algonquinlive.com">
-    <img src="https://img.shields.io/badge/Email-blue?logo=gmail" alt="Email">
+    <img src="https://img.shields.io/badge/Email-blue?logo=gmail" alt="Email" width="100">
   </a>
 </p>
 
@@ -42,11 +42,10 @@ Cloud Developer | Full Stack Enthusiast | DevOps & Cybersecurity Learner
 
 ### 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/-333333?style=flat&logo=python" alt="Python" />
-  <img src="https://img.shields.io/badge/-333333?style=flat&logo=javascript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-333333?style=flat&logo=docker" alt="Docker" />
-  <img src="https://img.shields.io/badge/-333333?style=flat&logo=terraform" alt="Terraform" />
-  <img src="https://img.shields.io/badge/-0078D4?style=flat&logo=microsoft-azure" alt="Azure" />
+  <img src="https://img.shields.io/badge/-333333?style=flat&logo=python" alt="Python" width="100" />
+  <img src="https://img.shields.io/badge/-333333?style=flat&logo=javascript" alt="JavaScript" width="100" />
+  <img src="https://img.shields.io/badge/-333333?style=flat&logo=docker" alt="Docker" width="100" />
+  <img src="https://img.shields.io/badge/-333333?style=flat&logo=terraform" alt="Terraform" width="100" />
 </p>
 
 
