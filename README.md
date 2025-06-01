@@ -1,8 +1,7 @@
 # Hi 👋, I'm Satyam Panseriya  
 Cloud Developer | Full Stack Enthusiast | DevOps & Cybersecurity Learner
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/satyampanseriya/)  
-[![Email](https://img.shields.io/badge/Email-MohitSinghPanwar-blue?logo=gmail)](pans0012@algonquinlive.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/satyampanseriya/)  [![Email](https://img.shields.io/badge/Email-blue?logo=gmail)](pans0012@algonquinlive.com)
 
 ---
 
